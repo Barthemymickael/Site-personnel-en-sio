@@ -11,7 +11,7 @@
     <input type="radio" name="r" id="r4">
     <input type="radio" name="r" id="r5">
     <div class="slide s1">
-      <img src="Assets/Images/1.jpeg" alt="">
+      <img src="Assets/Images/6.jpg" alt="">
     </div>
     <div class="slide">
       <img src="Assets/Images/6.jpg" alt="">
