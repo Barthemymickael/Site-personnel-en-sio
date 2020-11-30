@@ -22,9 +22,6 @@
     <div class="slide">
       <img src="Assets/Images/6.jpg" alt="">
     </div>
-    <div class="slide">
-      <img src="Assets/Images/6.jpg" alt="">
-    </div>
   </div>
 
   <div class="navigation">
