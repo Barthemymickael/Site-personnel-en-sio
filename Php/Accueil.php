@@ -11,19 +11,19 @@
     <input type="radio" name="r" id="r4">
     <input type="radio" name="r" id="r5">
     <div class="slide s1">
-      <img src="Images/1.jpeg" alt="">
+      <img src="Assets/Images/1.jpeg" alt="">
     </div>
     <div class="slide">
-      <img src="Images/6.jpg" alt="">
+      <img src="Assets/Images/6.jpg" alt="">
     </div>
     <div class="slide">
-      <img src="Images/3.jpg"= alt="">
+      <img src="Assets/Images/3.jpg"= alt="">
     </div>
     <div class="slide">
-      <img src="Images/4.jpg" alt="">
+      <img src="Assets/Images/4.jpg" alt="">
     </div>
     <div class="slide">
-      <img src="Images/5.jpg" alt="">
+      <img src="Assets/Images/5.jpg" alt="">
     </div>
   </div>
 

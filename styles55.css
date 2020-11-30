@@ -5,7 +5,7 @@
 
 
 header{
-background :  url('Images/header.jpg');
+background :  url('Assets/Images/header.jpg');
 height: 70px;
 width: 1700px;
 box-shadow: 5px 5px 30px black;
@@ -194,7 +194,7 @@ input[name="r"]{
 .circle{
 width: 520px;
 height: 490px;
-background: url('Images/7.jpg');
+background: url('Assets/Images/7.jpg');
 background-size: 100% 100%;
 border-radius: 50%;
 float: left;
@@ -218,7 +218,7 @@ margin: 30px;
   transform: translate(-50%,-50%);
   width: 1582px;
   height: 1000px;
-  background: url('Images/8.jpg');
+  background: url('Assets/Images/8.jpg');
 
 }
 
@@ -537,7 +537,7 @@ letter-spacing: 1px;
   left: -10%;
   width: 1738px;
   height: 1000px;
-  background: url('Images/10.jpg');
+  background: url('Assets/Images/10.jpg');
 }
 
 .popout{
@@ -623,7 +623,7 @@ background: #060c21
   left: 0%;
   width: 1580px;
   height: 760px;
-  background: url('Images/15.jpg');
+  background: url('Assets/Images/15.jpg');
   color: white;
 
 }
@@ -633,7 +633,7 @@ background: #060c21
   left: 0%;
   width: 1580px;
   height: 760px;
-  background: url('Images/12.jpg');
+  background: url('Assets/Images/12.jpg');
 }
 .txtt{
 
@@ -650,7 +650,7 @@ background: #060c21
   left: 69%;
   width: 470px;
   height: 300px;
-  background: url('Images/13.jpg');
+  background: url('Assets/Images/13.jpg');
 
 }
 
@@ -660,7 +660,7 @@ background: #060c21
   left: 1%;
   width: 470px;
   height: 300px;
-  background: url('Images/14.jpg');
+  background: url('Assets/Images/14.jpg');
 }
 
 
