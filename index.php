@@ -69,10 +69,7 @@ include("Php/Contact.php")
     <h3>Mickael Barthemy</h3>
     <h4><a href="mentions_Legales.html" target="_blank">Mentions légales</a>, crédits</h4>
    <div class="icon">
-     <a href="https://www.facebook.com/mickael.barthemy" class="facebook"><i class="fa fa-facebook"></i></a>
-     <a href="https://instagram.com/machinax_?igshid=9cj2bwb7q1lk" class="instagram"><i class="fa fa-instagram"></i></a>
-     <a href="https://twitter.com/BarthemyMickael" class="twitter"><i class="fa fa-twitter"></i></a>
-     <a href="https://www.youtube.com/channel/UCeCtuPWRz5x-d-etKQX6drg?view_as=subscriber" class="youtube"><i class="fa fa-youtube"></i></a>
+			<a href="https://github.com/Barthemymickael?tab=repositories" target="_blank"><i class="fa fa-github"></i></a>
    </div>
  </div>
     </footer>
